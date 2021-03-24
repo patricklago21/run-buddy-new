@@ -12,3 +12,5 @@ A website that offers fitness training services.
 
 ## Contribution
 Made with <3 by Patrick Lago
+
+### copyright2019 Run Buddy, Inc

@@ -1,4 +1,4 @@
-# run-buddy-new
+# run-buddy-new inc.
 
 ## Purpose
 A website that offers fitness training services.
